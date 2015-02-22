@@ -1,0 +1,399 @@
+{"state": "PR", "code": "4100103", "name": "Abatia"}
+{"state": "PR", "code": "4100202", "name": "Adrianopolis"}
+{"state": "PR", "code": "4100301", "name": "Agudos Do Sul"}
+{"state": "PR", "code": "4100400", "name": "Almirante Tamandare"}
+{"state": "PR", "code": "4100459", "name": "Altamira Do Parana"}
+{"state": "PR", "code": "4128625", "name": "Alto Paraiso"}
+{"state": "PR", "code": "4100608", "name": "Alto Parana"}
+{"state": "PR", "code": "4100707", "name": "Alto Piquiri"}
+{"state": "PR", "code": "4100509", "name": "Altonia"}
+{"state": "PR", "code": "4100806", "name": "Alvorada Do Sul"}
+{"state": "PR", "code": "4100905", "name": "Amapora"}
+{"state": "PR", "code": "4101002", "name": "Ampere"}
+{"state": "PR", "code": "4101051", "name": "Anahy"}
+{"state": "PR", "code": "4101101", "name": "Andira"}
+{"state": "PR", "code": "4101150", "name": "Angulo"}
+{"state": "PR", "code": "4101200", "name": "Antonina"}
+{"state": "PR", "code": "4101309", "name": "Antonio Olinto"}
+{"state": "PR", "code": "4101408", "name": "Apucarana"}
+{"state": "PR", "code": "4101507", "name": "Arapongas"}
+{"state": "PR", "code": "4101606", "name": "Arapoti"}
+{"state": "PR", "code": "4101655", "name": "Arapua"}
+{"state": "PR", "code": "4101705", "name": "Araruna"}
+{"state": "PR", "code": "4101804", "name": "Araucaria"}
+{"state": "PR", "code": "4101853", "name": "Ariranha Do Ivai"}
+{"state": "PR", "code": "4101903", "name": "Assai"}
+{"state": "PR", "code": "4102000", "name": "Assis Chateaubriand"}
+{"state": "PR", "code": "4102109", "name": "Astorga"}
+{"state": "PR", "code": "4102208", "name": "Atalaia"}
+{"state": "PR", "code": "4102307", "name": "Balsa Nova"}
+{"state": "PR", "code": "4102406", "name": "Bandeirantes"}
+{"state": "PR", "code": "4102505", "name": "Barbosa Ferraz"}
+{"state": "PR", "code": "4102703", "name": "Barra Do Jacare"}
+{"state": "PR", "code": "4102604", "name": "Barracao"}
+{"state": "PR", "code": "4102752", "name": "Bela Vista Da Caroba"}
+{"state": "PR", "code": "4102802", "name": "Bela Vista Do Paraiso"}
+{"state": "PR", "code": "4102901", "name": "Bituruna"}
+{"state": "PR", "code": "4103008", "name": "Boa Esperanca"}
+{"state": "PR", "code": "4103024", "name": "Boa Esperanca Do Iguacu"}
+{"state": "PR", "code": "4103040", "name": "Boa Ventura De Sao Roque"}
+{"state": "PR", "code": "4103057", "name": "Boa Vista Da Aparecida"}
+{"state": "PR", "code": "4103107", "name": "Bocaiuva Do Sul"}
+{"state": "PR", "code": "4103156", "name": "Bom Jesus Do Sul"}
+{"state": "PR", "code": "4103206", "name": "Bom Sucesso"}
+{"state": "PR", "code": "4103222", "name": "Bom Sucesso Do Sul"}
+{"state": "PR", "code": "4103305", "name": "Borrazopolis"}
+{"state": "PR", "code": "4103354", "name": "Braganey"}
+{"state": "PR", "code": "4103370", "name": "Brasilandia Do Sul"}
+{"state": "PR", "code": "4103404", "name": "Cafeara"}
+{"state": "PR", "code": "4103453", "name": "Cafelandia"}
+{"state": "PR", "code": "4103479", "name": "Cafezal Do Sul"}
+{"state": "PR", "code": "4103503", "name": "California"}
+{"state": "PR", "code": "4103602", "name": "Cambara"}
+{"state": "PR", "code": "4103701", "name": "Cambe"}
+{"state": "PR", "code": "4103800", "name": "Cambira"}
+{"state": "PR", "code": "4103909", "name": "Campina Da Lagoa"}
+{"state": "PR", "code": "4103958", "name": "Campina Do Simao"}
+{"state": "PR", "code": "4104006", "name": "Campina Grande Do Sul"}
+{"state": "PR", "code": "4104055", "name": "Campo Bonito"}
+{"state": "PR", "code": "4104105", "name": "Campo Do Tenente"}
+{"state": "PR", "code": "4104204", "name": "Campo Largo"}
+{"state": "PR", "code": "4104253", "name": "Campo Magro"}
+{"state": "PR", "code": "4104303", "name": "Campo Mourao"}
+{"state": "PR", "code": "4104402", "name": "Candido De Abreu"}
+{"state": "PR", "code": "4104428", "name": "Candoi"}
+{"state": "PR", "code": "4104451", "name": "Cantagalo"}
+{"state": "PR", "code": "4104501", "name": "Capanema"}
+{"state": "PR", "code": "4104600", "name": "Capitao Leonidas Marques"}
+{"state": "PR", "code": "4104659", "name": "Carambei"}
+{"state": "PR", "code": "4104709", "name": "Carlopolis"}
+{"state": "PR", "code": "4104808", "name": "Cascavel"}
+{"state": "PR", "code": "4104907", "name": "Castro"}
+{"state": "PR", "code": "4105003", "name": "Catanduvas"}
+{"state": "PR", "code": "4105102", "name": "Centenario Do Sul"}
+{"state": "PR", "code": "4105201", "name": "Cerro Azul"}
+{"state": "PR", "code": "4105300", "name": "Ceu Azul"}
+{"state": "PR", "code": "4105409", "name": "Chopinzinho"}
+{"state": "PR", "code": "4105508", "name": "Cianorte"}
+{"state": "PR", "code": "4105607", "name": "Cidade Gaucha"}
+{"state": "PR", "code": "4105706", "name": "Clevelandia"}
+{"state": "PR", "code": "4105805", "name": "Colombo"}
+{"state": "PR", "code": "4105904", "name": "Colorado"}
+{"state": "PR", "code": "4106001", "name": "Congonhinhas"}
+{"state": "PR", "code": "4106100", "name": "Conselheiro Mairinck"}
+{"state": "PR", "code": "4106209", "name": "Contenda"}
+{"state": "PR", "code": "4106308", "name": "Corbelia"}
+{"state": "PR", "code": "4106407", "name": "Cornelio Procopio"}
+{"state": "PR", "code": "4106456", "name": "Coronel Domingos Soares"}
+{"state": "PR", "code": "4106506", "name": "Coronel Vivida"}
+{"state": "PR", "code": "4106555", "name": "Corumbatai Do Sul"}
+{"state": "PR", "code": "4106803", "name": "Cruz Machado"}
+{"state": "PR", "code": "4106571", "name": "Cruzeiro Do Iguacu"}
+{"state": "PR", "code": "4106605", "name": "Cruzeiro Do Oeste"}
+{"state": "PR", "code": "4106704", "name": "Cruzeiro Do Sul"}
+{"state": "PR", "code": "4106852", "name": "Cruzmaltina"}
+{"state": "PR", "code": "4106902", "name": "Curitiba"}
+{"state": "PR", "code": "4107009", "name": "Curiuva"}
+{"state": "PR", "code": "4107157", "name": "Diamante D'Oeste"}
+{"state": "PR", "code": "4107108", "name": "Diamante Do Norte"}
+{"state": "PR", "code": "4107124", "name": "Diamante Do Sul"}
+{"state": "PR", "code": "4107207", "name": "Dois Vizinhos"}
+{"state": "PR", "code": "4107256", "name": "Douradina"}
+{"state": "PR", "code": "4107306", "name": "Doutor Camargo"}
+{"state": "PR", "code": "4128633", "name": "Doutor Ulysses"}
+{"state": "PR", "code": "4107405", "name": "Eneas Marques"}
+{"state": "PR", "code": "4107504", "name": "Engenheiro Beltrao"}
+{"state": "PR", "code": "4107538", "name": "Entre Rios Do Oeste"}
+{"state": "PR", "code": "4107520", "name": "Esperanca Nova"}
+{"state": "PR", "code": "4107546", "name": "Espigao Alto Do Iguacu"}
+{"state": "PR", "code": "4107553", "name": "Farol"}
+{"state": "PR", "code": "4107603", "name": "Faxinal"}
+{"state": "PR", "code": "4107652", "name": "Fazenda Rio Grande"}
+{"state": "PR", "code": "4107702", "name": "Fenix"}
+{"state": "PR", "code": "4107736", "name": "Fernandes Pinheiro"}
+{"state": "PR", "code": "4107751", "name": "Figueira"}
+{"state": "PR", "code": "4107850", "name": "Flor Da Serra Do Sul"}
+{"state": "PR", "code": "4107801", "name": "Florai"}
+{"state": "PR", "code": "4107900", "name": "Floresta"}
+{"state": "PR", "code": "4108007", "name": "Florestopolis"}
+{"state": "PR", "code": "4108106", "name": "Florida"}
+{"state": "PR", "code": "4108205", "name": "Formosa Do Oeste"}
+{"state": "PR", "code": "4108304", "name": "Foz Do Iguacu"}
+{"state": "PR", "code": "4108452", "name": "Foz Do Jordao"}
+{"state": "PR", "code": "4108320", "name": "Francisco Alves"}
+{"state": "PR", "code": "4108403", "name": "Francisco Beltrao"}
+{"state": "PR", "code": "4108502", "name": "General Carneiro"}
+{"state": "PR", "code": "4108551", "name": "Godoy Moreira"}
+{"state": "PR", "code": "4108601", "name": "Goioere"}
+{"state": "PR", "code": "4108650", "name": "Goioxim"}
+{"state": "PR", "code": "4108700", "name": "Grandes Rios"}
+{"state": "PR", "code": "4108809", "name": "Guaira"}
+{"state": "PR", "code": "4108908", "name": "Guairaca"}
+{"state": "PR", "code": "4108957", "name": "Guamiranga"}
+{"state": "PR", "code": "4109005", "name": "Guapirama"}
+{"state": "PR", "code": "4109104", "name": "Guaporema"}
+{"state": "PR", "code": "4109203", "name": "Guaraci"}
+{"state": "PR", "code": "4109302", "name": "Guaraniacu"}
+{"state": "PR", "code": "4109401", "name": "Guarapuava"}
+{"state": "PR", "code": "4109500", "name": "Guaraquecaba"}
+{"state": "PR", "code": "4109609", "name": "Guaratuba"}
+{"state": "PR", "code": "4109658", "name": "Honorio Serpa"}
+{"state": "PR", "code": "4109708", "name": "Ibaiti"}
+{"state": "PR", "code": "4109757", "name": "Ibema"}
+{"state": "PR", "code": "4109807", "name": "Ibipora"}
+{"state": "PR", "code": "4109906", "name": "Icaraima"}
+{"state": "PR", "code": "4110003", "name": "Iguaracu"}
+{"state": "PR", "code": "4110052", "name": "Iguatu"}
+{"state": "PR", "code": "4110078", "name": "Imbau"}
+{"state": "PR", "code": "4110102", "name": "Imbituva"}
+{"state": "PR", "code": "4110201", "name": "Inacio Martins"}
+{"state": "PR", "code": "4110300", "name": "Inaja"}
+{"state": "PR", "code": "4110409", "name": "Indianopolis"}
+{"state": "PR", "code": "4110508", "name": "Ipiranga"}
+{"state": "PR", "code": "4110607", "name": "Ipora"}
+{"state": "PR", "code": "4110656", "name": "Iracema Do Oeste"}
+{"state": "PR", "code": "4110706", "name": "Irati"}
+{"state": "PR", "code": "4110805", "name": "Iretama"}
+{"state": "PR", "code": "4110904", "name": "Itaguaje"}
+{"state": "PR", "code": "4110953", "name": "Itaipulandia"}
+{"state": "PR", "code": "4111001", "name": "Itambaraca"}
+{"state": "PR", "code": "4111100", "name": "Itambe"}
+{"state": "PR", "code": "4111209", "name": "Itapejara D'Oeste"}
+{"state": "PR", "code": "4111258", "name": "Itaperucu"}
+{"state": "PR", "code": "4111308", "name": "Itauna Do Sul"}
+{"state": "PR", "code": "4111407", "name": "Ivai"}
+{"state": "PR", "code": "4111506", "name": "Ivaipora"}
+{"state": "PR", "code": "4111555", "name": "Ivate"}
+{"state": "PR", "code": "4111605", "name": "Ivatuba"}
+{"state": "PR", "code": "4111704", "name": "Jaboti"}
+{"state": "PR", "code": "4111803", "name": "Jacarezinho"}
+{"state": "PR", "code": "4111902", "name": "Jaguapita"}
+{"state": "PR", "code": "4112009", "name": "Jaguariaiva"}
+{"state": "PR", "code": "4112108", "name": "Jandaia Do Sul"}
+{"state": "PR", "code": "4112207", "name": "Janiopolis"}
+{"state": "PR", "code": "4112306", "name": "Japira"}
+{"state": "PR", "code": "4112405", "name": "Japura"}
+{"state": "PR", "code": "4112504", "name": "Jardim Alegre"}
+{"state": "PR", "code": "4112603", "name": "Jardim Olinda"}
+{"state": "PR", "code": "4112702", "name": "Jataizinho"}
+{"state": "PR", "code": "4112751", "name": "Jesuitas"}
+{"state": "PR", "code": "4112801", "name": "Joaquim Tavora"}
+{"state": "PR", "code": "4112900", "name": "Jundiai Do Sul"}
+{"state": "PR", "code": "4112959", "name": "Juranda"}
+{"state": "PR", "code": "4113007", "name": "Jussara"}
+{"state": "PR", "code": "4113106", "name": "Kalore"}
+{"state": "PR", "code": "4113205", "name": "Lapa"}
+{"state": "PR", "code": "4113254", "name": "Laranjal"}
+{"state": "PR", "code": "4113304", "name": "Laranjeiras Do Sul"}
+{"state": "PR", "code": "4113403", "name": "Leopolis"}
+{"state": "PR", "code": "4113429", "name": "Lidianopolis"}
+{"state": "PR", "code": "4113452", "name": "Lindoeste"}
+{"state": "PR", "code": "4113502", "name": "Loanda"}
+{"state": "PR", "code": "4113601", "name": "Lobato"}
+{"state": "PR", "code": "4113700", "name": "Londrina"}
+{"state": "PR", "code": "4113734", "name": "Luiziana"}
+{"state": "PR", "code": "4113759", "name": "Lunardelli"}
+{"state": "PR", "code": "4113809", "name": "Lupionopolis"}
+{"state": "PR", "code": "4113908", "name": "Mallet"}
+{"state": "PR", "code": "4114005", "name": "Mambore"}
+{"state": "PR", "code": "4114104", "name": "Mandaguacu"}
+{"state": "PR", "code": "4114203", "name": "Mandaguari"}
+{"state": "PR", "code": "4114302", "name": "Mandirituba"}
+{"state": "PR", "code": "4114351", "name": "Manfrinopolis"}
+{"state": "PR", "code": "4114401", "name": "Mangueirinha"}
+{"state": "PR", "code": "4114500", "name": "Manoel Ribas"}
+{"state": "PR", "code": "4114609", "name": "Marechal Candido Rondon"}
+{"state": "PR", "code": "4114708", "name": "Maria Helena"}
+{"state": "PR", "code": "4114807", "name": "Marialva"}
+{"state": "PR", "code": "4114906", "name": "Marilandia Do Sul"}
+{"state": "PR", "code": "4115002", "name": "Marilena"}
+{"state": "PR", "code": "4115101", "name": "Mariluz"}
+{"state": "PR", "code": "4115200", "name": "Maringa"}
+{"state": "PR", "code": "4115309", "name": "Mariopolis"}
+{"state": "PR", "code": "4115358", "name": "Maripa"}
+{"state": "PR", "code": "4115408", "name": "Marmeleiro"}
+{"state": "PR", "code": "4115457", "name": "Marquinho"}
+{"state": "PR", "code": "4115507", "name": "Marumbi"}
+{"state": "PR", "code": "4115606", "name": "Matelandia"}
+{"state": "PR", "code": "4115705", "name": "Matinhos"}
+{"state": "PR", "code": "4115739", "name": "Mato Rico"}
+{"state": "PR", "code": "4115754", "name": "Maua Da Serra"}
+{"state": "PR", "code": "4115804", "name": "Medianeira"}
+{"state": "PR", "code": "4115853", "name": "Mercedes"}
+{"state": "PR", "code": "4115903", "name": "Mirador"}
+{"state": "PR", "code": "4116000", "name": "Miraselva"}
+{"state": "PR", "code": "4116059", "name": "Missal"}
+{"state": "PR", "code": "4116109", "name": "Moreira Sales"}
+{"state": "PR", "code": "4116208", "name": "Morretes"}
+{"state": "PR", "code": "4116307", "name": "Munhoz De Melo"}
+{"state": "PR", "code": "4116406", "name": "Nossa Senhora Das Gracas"}
+{"state": "PR", "code": "4116505", "name": "Nova Alianca Do Ivai"}
+{"state": "PR", "code": "4116604", "name": "Nova America Da Colina"}
+{"state": "PR", "code": "4116703", "name": "Nova Aurora"}
+{"state": "PR", "code": "4116802", "name": "Nova Cantu"}
+{"state": "PR", "code": "4116901", "name": "Nova Esperanca"}
+{"state": "PR", "code": "4116950", "name": "Nova Esperanca Do Sudoeste"}
+{"state": "PR", "code": "4117008", "name": "Nova Fatima"}
+{"state": "PR", "code": "4117057", "name": "Nova Laranjeiras"}
+{"state": "PR", "code": "4117107", "name": "Nova Londrina"}
+{"state": "PR", "code": "4117206", "name": "Nova Olimpia"}
+{"state": "PR", "code": "4117255", "name": "Nova Prata Do Iguacu"}
+{"state": "PR", "code": "4117214", "name": "Nova Santa Barbara"}
+{"state": "PR", "code": "4117222", "name": "Nova Santa Rosa"}
+{"state": "PR", "code": "4117271", "name": "Nova Tebas"}
+{"state": "PR", "code": "4117297", "name": "Novo Itacolomi"}
+{"state": "PR", "code": "4117305", "name": "Ortigueira"}
+{"state": "PR", "code": "4117404", "name": "Ourizona"}
+{"state": "PR", "code": "4117453", "name": "Ouro Verde Do Oeste"}
+{"state": "PR", "code": "4117503", "name": "Paicandu"}
+{"state": "PR", "code": "4117602", "name": "Palmas"}
+{"state": "PR", "code": "4117701", "name": "Palmeira"}
+{"state": "PR", "code": "4117800", "name": "Palmital"}
+{"state": "PR", "code": "4117909", "name": "Palotina"}
+{"state": "PR", "code": "4118006", "name": "Paraiso Do Norte"}
+{"state": "PR", "code": "4118105", "name": "Paranacity"}
+{"state": "PR", "code": "4118204", "name": "Paranagua"}
+{"state": "PR", "code": "4118303", "name": "Paranapoema"}
+{"state": "PR", "code": "4118402", "name": "Paranavai"}
+{"state": "PR", "code": "4118451", "name": "Pato Bragado"}
+{"state": "PR", "code": "4118501", "name": "Pato Branco"}
+{"state": "PR", "code": "4118600", "name": "Paula Freitas"}
+{"state": "PR", "code": "4118709", "name": "Paulo Frontin"}
+{"state": "PR", "code": "4118808", "name": "Peabiru"}
+{"state": "PR", "code": "4118857", "name": "Perobal"}
+{"state": "PR", "code": "4118907", "name": "Perola"}
+{"state": "PR", "code": "4119004", "name": "Perola D'Oeste"}
+{"state": "PR", "code": "4119103", "name": "Pien"}
+{"state": "PR", "code": "4119152", "name": "Pinhais"}
+{"state": "PR", "code": "4119251", "name": "Pinhal De Sao Bento"}
+{"state": "PR", "code": "4119202", "name": "Pinhalao"}
+{"state": "PR", "code": "4119301", "name": "Pinhao"}
+{"state": "PR", "code": "4119400", "name": "Pirai Do Sul"}
+{"state": "PR", "code": "4119509", "name": "Piraquara"}
+{"state": "PR", "code": "4119608", "name": "Pitanga"}
+{"state": "PR", "code": "4119657", "name": "Pitangueiras"}
+{"state": "PR", "code": "4119707", "name": "Planaltina Do Parana"}
+{"state": "PR", "code": "4119806", "name": "Planalto"}
+{"state": "PR", "code": "4119905", "name": "Ponta Grossa"}
+{"state": "PR", "code": "4119954", "name": "Pontal Do Parana"}
+{"state": "PR", "code": "4120002", "name": "Porecatu"}
+{"state": "PR", "code": "4120101", "name": "Porto Amazonas"}
+{"state": "PR", "code": "4120150", "name": "Porto Barreiro"}
+{"state": "PR", "code": "4120200", "name": "Porto Rico"}
+{"state": "PR", "code": "4120309", "name": "Porto Vitoria"}
+{"state": "PR", "code": "4120333", "name": "Prado Ferreira"}
+{"state": "PR", "code": "4120358", "name": "Pranchita"}
+{"state": "PR", "code": "4120408", "name": "Presidente Castelo Branco"}
+{"state": "PR", "code": "4120507", "name": "Primeiro De Maio"}
+{"state": "PR", "code": "4120606", "name": "Prudentopolis"}
+{"state": "PR", "code": "4120655", "name": "Quarto Centenario"}
+{"state": "PR", "code": "4120705", "name": "Quatigua"}
+{"state": "PR", "code": "4120804", "name": "Quatro Barras"}
+{"state": "PR", "code": "4120853", "name": "Quatro Pontes"}
+{"state": "PR", "code": "4120903", "name": "Quedas Do Iguacu"}
+{"state": "PR", "code": "4121000", "name": "Querencia Do Norte"}
+{"state": "PR", "code": "4121109", "name": "Quinta Do Sol"}
+{"state": "PR", "code": "4121208", "name": "Quitandinha"}
+{"state": "PR", "code": "4121257", "name": "Ramilandia"}
+{"state": "PR", "code": "4121307", "name": "Rancho Alegre"}
+{"state": "PR", "code": "4121356", "name": "Rancho Alegre D'Oeste"}
+{"state": "PR", "code": "4121406", "name": "Realeza"}
+{"state": "PR", "code": "4121505", "name": "Reboucas"}
+{"state": "PR", "code": "4121604", "name": "Renascenca"}
+{"state": "PR", "code": "4121703", "name": "Reserva"}
+{"state": "PR", "code": "4121752", "name": "Reserva Do Iguacu"}
+{"state": "PR", "code": "4121802", "name": "Ribeirao Claro"}
+{"state": "PR", "code": "4121901", "name": "Ribeirao Do Pinhal"}
+{"state": "PR", "code": "4122008", "name": "Rio Azul"}
+{"state": "PR", "code": "4122107", "name": "Rio Bom"}
+{"state": "PR", "code": "4122156", "name": "Rio Bonito Do Iguacu"}
+{"state": "PR", "code": "4122172", "name": "Rio Branco Do Ivai"}
+{"state": "PR", "code": "4122206", "name": "Rio Branco Do Sul"}
+{"state": "PR", "code": "4122305", "name": "Rio Negro"}
+{"state": "PR", "code": "4122404", "name": "Rolandia"}
+{"state": "PR", "code": "4122503", "name": "Roncador"}
+{"state": "PR", "code": "4122602", "name": "Rondon"}
+{"state": "PR", "code": "4122651", "name": "Rosario Do Ivai"}
+{"state": "PR", "code": "4122701", "name": "Sabaudia"}
+{"state": "PR", "code": "4122800", "name": "Salgado Filho"}
+{"state": "PR", "code": "4122909", "name": "Salto Do Itarare"}
+{"state": "PR", "code": "4123006", "name": "Salto Do Lontra"}
+{"state": "PR", "code": "4123105", "name": "Santa Amelia"}
+{"state": "PR", "code": "4123204", "name": "Santa Cecilia Do Pavao"}
+{"state": "PR", "code": "4123303", "name": "Santa Cruz De Monte Castelo"}
+{"state": "PR", "code": "4123402", "name": "Santa Fe"}
+{"state": "PR", "code": "4123501", "name": "Santa Helena"}
+{"state": "PR", "code": "4123600", "name": "Santa Ines"}
+{"state": "PR", "code": "4123709", "name": "Santa Isabel Do Ivai"}
+{"state": "PR", "code": "4123808", "name": "Santa Izabel Do Oeste"}
+{"state": "PR", "code": "4123824", "name": "Santa Lucia"}
+{"state": "PR", "code": "4123857", "name": "Santa Maria Do Oeste"}
+{"state": "PR", "code": "4123907", "name": "Santa Mariana"}
+{"state": "PR", "code": "4123956", "name": "Santa Monica"}
+{"state": "PR", "code": "4124020", "name": "Santa Tereza Do Oeste"}
+{"state": "PR", "code": "4124053", "name": "Santa Terezinha De Itaipu"}
+{"state": "PR", "code": "4124004", "name": "Santana Do Itarare"}
+{"state": "PR", "code": "4124103", "name": "Santo Antonio Da Platina"}
+{"state": "PR", "code": "4124202", "name": "Santo Antonio Do Caiua"}
+{"state": "PR", "code": "4124301", "name": "Santo Antonio Do Paraiso"}
+{"state": "PR", "code": "4124400", "name": "Santo Antonio Do Sudoeste"}
+{"state": "PR", "code": "4124509", "name": "Santo Inacio"}
+{"state": "PR", "code": "4124608", "name": "Sao Carlos Do Ivai"}
+{"state": "PR", "code": "4124707", "name": "Sao Jeronimo Da Serra"}
+{"state": "PR", "code": "4124806", "name": "Sao Joao"}
+{"state": "PR", "code": "4124905", "name": "Sao Joao Do Caiua"}
+{"state": "PR", "code": "4125001", "name": "Sao Joao Do Ivai"}
+{"state": "PR", "code": "4125100", "name": "Sao Joao Do Triunfo"}
+{"state": "PR", "code": "4125209", "name": "Sao Jorge D'Oeste"}
+{"state": "PR", "code": "4125308", "name": "Sao Jorge Do Ivai"}
+{"state": "PR", "code": "4125357", "name": "Sao Jorge Do Patrocinio"}
+{"state": "PR", "code": "4125407", "name": "Sao Jose Da Boa Vista"}
+{"state": "PR", "code": "4125456", "name": "Sao Jose Das Palmeiras"}
+{"state": "PR", "code": "4125506", "name": "Sao Jose Dos Pinhais"}
+{"state": "PR", "code": "4125555", "name": "Sao Manoel Do Parana"}
+{"state": "PR", "code": "4125605", "name": "Sao Mateus Do Sul"}
+{"state": "PR", "code": "4125704", "name": "Sao Miguel Do Iguacu"}
+{"state": "PR", "code": "4125753", "name": "Sao Pedro Do Iguacu"}
+{"state": "PR", "code": "4125803", "name": "Sao Pedro Do Ivai"}
+{"state": "PR", "code": "4125902", "name": "Sao Pedro Do Parana"}
+{"state": "PR", "code": "4126009", "name": "Sao Sebastiao Da Amoreira"}
+{"state": "PR", "code": "4126108", "name": "Sao Tome"}
+{"state": "PR", "code": "4126207", "name": "Sapopema"}
+{"state": "PR", "code": "4126256", "name": "Sarandi"}
+{"state": "PR", "code": "4126272", "name": "Saudade Do Iguacu"}
+{"state": "PR", "code": "4126306", "name": "Senges"}
+{"state": "PR", "code": "4126355", "name": "Serranopolis Do Iguacu"}
+{"state": "PR", "code": "4126405", "name": "Sertaneja"}
+{"state": "PR", "code": "4126504", "name": "Sertanopolis"}
+{"state": "PR", "code": "4126603", "name": "Siqueira Campos"}
+{"state": "PR", "code": "4126652", "name": "Sulina"}
+{"state": "PR", "code": "4126678", "name": "Tamarana"}
+{"state": "PR", "code": "4126702", "name": "Tamboara"}
+{"state": "PR", "code": "4126801", "name": "Tapejara"}
+{"state": "PR", "code": "4126900", "name": "Tapira"}
+{"state": "PR", "code": "4127007", "name": "Teixeira Soares"}
+{"state": "PR", "code": "4127106", "name": "Telemaco Borba"}
+{"state": "PR", "code": "4127205", "name": "Terra Boa"}
+{"state": "PR", "code": "4127304", "name": "Terra Rica"}
+{"state": "PR", "code": "4127403", "name": "Terra Roxa"}
+{"state": "PR", "code": "4127502", "name": "Tibagi"}
+{"state": "PR", "code": "4127601", "name": "Tijucas Do Sul"}
+{"state": "PR", "code": "4127700", "name": "Toledo"}
+{"state": "PR", "code": "4127809", "name": "Tomazina"}
+{"state": "PR", "code": "4127858", "name": "Tres Barras Do Parana"}
+{"state": "PR", "code": "4127882", "name": "Tunas Do Parana"}
+{"state": "PR", "code": "4127908", "name": "Tuneiras Do Oeste"}
+{"state": "PR", "code": "4127957", "name": "Tupassi"}
+{"state": "PR", "code": "4127965", "name": "Turvo"}
+{"state": "PR", "code": "4128005", "name": "Ubirata"}
+{"state": "PR", "code": "4128104", "name": "Umuarama"}
+{"state": "PR", "code": "4128203", "name": "Uniao Da Vitoria"}
+{"state": "PR", "code": "4128302", "name": "Uniflor"}
+{"state": "PR", "code": "4128401", "name": "Urai"}
+{"state": "PR", "code": "4128534", "name": "Ventania"}
+{"state": "PR", "code": "4128559", "name": "Vera Cruz Do Oeste"}
+{"state": "PR", "code": "4128609", "name": "Vere"}
+{"state": "PR", "code": "4128658", "name": "Virmond"}
+{"state": "PR", "code": "4128708", "name": "Vitorino"}
+{"state": "PR", "code": "4128500", "name": "Wenceslau Braz"}
+{"state": "PR", "code": "4128807", "name": "Xambre"}

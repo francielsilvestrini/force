@@ -1,0 +1,64 @@
+#:kivy 1.0
+
+<StartScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Bem Vindo ao Onnix Force'
+            font_size: 36
+        Label:
+            text: 'Onnix Sistemas'
+
+<LoginScreen>:
+    username_box: username_input
+    password_box: password_input
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Bem Vindo ao Onnix Force'
+            font_size: 36
+        Label:
+            text: 'Onnix Sistemas'
+        GridLayout:
+            cols: 2
+            row_default_height: '40dp'
+            row_force_default: True
+            spacing: '10dp'
+            padding: '10dp'
+            Label:
+                text: 'Usuário'
+                halign: 'right'
+            CustomTextInput:
+                id: username_input
+                multiline: False
+                write_tab: False
+            Label:
+                text: 'Senha'
+                halign: 'right'
+            CustomTextInput:
+                id: password_input
+                multiline: False
+                write_tab: False
+                password: True
+            Label:
+            BoxLayout:
+                Button:
+                    size_hint_y: None
+                    height: '40dp'
+                    text: 'Login'
+                    on_press: root.on_login()
+                Button:
+                    size_hint_y: None
+                    height: '40dp'
+                    text: 'Fechar'
+                    on_press: root.on_close()
+
+<StartScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Bem Vindo ao Onnix Force'
+            font_size: 36
+        Label:
+            text: 'Onnix Sistemas'
+
